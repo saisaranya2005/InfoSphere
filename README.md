@@ -23,3 +23,5 @@ InfoSphere is a dynamic content generation and quiz application designed to educ
 - **UnSplash API**: For fetching images related to requested content.
 - **API Ninjas**: For high user interactive quiz.
 - **Wikipedia**: For providing additional info for user requested content.
+-  AWS, though under free tier, charges users for using some services like Bedrock, VPC etc. So I shutdown the services immediately after creating the application.
+-  I highly recommend you to observe your service usages and costs under aws billing and cost management to avoid unexpected charges.
